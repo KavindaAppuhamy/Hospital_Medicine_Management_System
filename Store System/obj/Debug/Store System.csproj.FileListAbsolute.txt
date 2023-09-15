@@ -1,0 +1,95 @@
+D:\GAD Project\Store System\bin\Debug\Store System.exe.config
+D:\GAD Project\Store System\bin\Debug\Store System.exe
+D:\GAD Project\Store System\bin\Debug\Store System.pdb
+D:\GAD Project\Store System\bin\Debug\Guna.UI2.dll
+D:\GAD Project\Store System\obj\Debug\Store_System.Properties.Resources.resources
+D:\GAD Project\Store System\obj\Debug\Store System.csproj.GenerateResource.cache
+D:\GAD Project\Store System\obj\Debug\Store System.csproj.CoreCompileInputs.cache
+D:\GAD Project\Store System\obj\Debug\Store System.csproj.CopyComplete
+D:\GAD Project\Store System\obj\Debug\Store System.exe
+D:\GAD Project\Store System\obj\Debug\Store System.pdb
+D:\GAD Project\Store System\obj\Debug\Store_System.StartPage.resources
+D:\GAD Project\Store System\obj\Debug\Store System.csproj.AssemblyReference.cache
+D:\GAD Project\Store System\obj\Debug\Store_System.Admin.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Signin.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.LoadingPage.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MainMenu.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Pharmacist.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminadd.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminDashboard.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminIssue.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminValidity.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminUpdate.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.MedicinAdmin.frm_adminView.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Dispenser.DashBoard.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Dispenser.Issue.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Dispenser.ValidityCheck.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Dispenser.ViewMed.resources
+D:\GAD Project\Store System\bin\Debug\Guna.Charts.WinForms.dll
+D:\GAD Project\Store System\obj\Debug\Store_System.Dispenser.NewBill.resources
+D:\GAD Project\Store System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GAD Project\Store System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GAD Project\Store System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GAD Project\Store System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GAD Project\Store System\bin\Debug\EnvDTE.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GAD Project\Store System\bin\Debug\stdole.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GAD Project\Store System\bin\Debug\Microsoft.MSXML.dll
+D:\GAD Project\Store System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD Project\Store System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD Project\Store System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD Project\Store System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD Project\Store System\obj\Debug\Store_System.ViewBills.resources
+D:\GAD Project\Store System\obj\Debug\RdlCompile.cache
+D:\GAD Project\Store System\obj\Debug\RdlCompile.compiled
+D:\GAD Project\Store System\obj\Debug\Store_System.View_Sales.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.PrintMedicines.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Expiered_Medi.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Expire_Soon_medi.resources
+D:\GAD Project\Store System\obj\Debug\Store_System.Valid_Medi.resources

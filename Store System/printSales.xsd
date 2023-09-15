@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="printSales" targetNamespace="http://tempuri.org/printSales.xsd" xmlns:mstns="http://tempuri.org/printSales.xsd" xmlns="http://tempuri.org/printSales.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="pharmacyConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="pharmacyConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Store_System.Properties.Settings.GlobalReference.Default.pharmacyConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PrintBillTableAdapter" GeneratorDataComponentClassName="PrintBillTableAdapter" Name="PrintBill" UserDataComponentName="PrintBillTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pharmacyConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Bill.Bill_No, Bill.Bill_Date, Bill.Bill_Amount, Bill.Dis_Amount, Bill.Net_Pay, fullbill.fbName, fullbill.unitP, fullbill.qty, fullbill.amt, fullbill.billNo
+FROM            Bill CROSS JOIN
+                         fullbill</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Bill_No" DataSetColumn="Bill_No" />
+              <Mapping SourceColumn="Bill_Date" DataSetColumn="Bill_Date" />
+              <Mapping SourceColumn="Bill_Amount" DataSetColumn="Bill_Amount" />
+              <Mapping SourceColumn="Dis_Amount" DataSetColumn="Dis_Amount" />
+              <Mapping SourceColumn="Net_Pay" DataSetColumn="Net_Pay" />
+              <Mapping SourceColumn="fbName" DataSetColumn="fbName" />
+              <Mapping SourceColumn="unitP" DataSetColumn="unitP" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="amt" DataSetColumn="amt" />
+              <Mapping SourceColumn="billNo" DataSetColumn="billNo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="printSales" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="printSales" msprop:Generator_UserDSName="printSales">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PrintBill" msprop:Generator_TableClassName="PrintBillDataTable" msprop:Generator_TableVarName="tablePrintBill" msprop:Generator_TablePropName="PrintBill" msprop:Generator_RowDeletingName="PrintBillRowDeleting" msprop:Generator_RowChangingName="PrintBillRowChanging" msprop:Generator_RowEvHandlerName="PrintBillRowChangeEventHandler" msprop:Generator_RowDeletedName="PrintBillRowDeleted" msprop:Generator_UserTableName="PrintBill" msprop:Generator_RowChangedName="PrintBillRowChanged" msprop:Generator_RowEvArgName="PrintBillRowChangeEvent" msprop:Generator_RowClassName="PrintBillRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Bill_No" msprop:Generator_ColumnVarNameInTable="columnBill_No" msprop:Generator_ColumnPropNameInRow="Bill_No" msprop:Generator_ColumnPropNameInTable="Bill_NoColumn" msprop:Generator_UserColumnName="Bill_No" type="xs:int" />
+              <xs:element name="Bill_Date" msprop:Generator_ColumnVarNameInTable="columnBill_Date" msprop:Generator_ColumnPropNameInRow="Bill_Date" msprop:Generator_ColumnPropNameInTable="Bill_DateColumn" msprop:Generator_UserColumnName="Bill_Date">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Bill_Amount" msprop:Generator_ColumnVarNameInTable="columnBill_Amount" msprop:Generator_ColumnPropNameInRow="Bill_Amount" msprop:Generator_ColumnPropNameInTable="Bill_AmountColumn" msprop:Generator_UserColumnName="Bill_Amount" type="xs:long" />
+              <xs:element name="Dis_Amount" msprop:Generator_ColumnVarNameInTable="columnDis_Amount" msprop:Generator_ColumnPropNameInRow="Dis_Amount" msprop:Generator_ColumnPropNameInTable="Dis_AmountColumn" msprop:Generator_UserColumnName="Dis_Amount" type="xs:long" />
+              <xs:element name="Net_Pay" msprop:Generator_ColumnVarNameInTable="columnNet_Pay" msprop:Generator_ColumnPropNameInRow="Net_Pay" msprop:Generator_ColumnPropNameInTable="Net_PayColumn" msprop:Generator_UserColumnName="Net_Pay">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fbName" msprop:Generator_ColumnVarNameInTable="columnfbName" msprop:Generator_ColumnPropNameInRow="fbName" msprop:Generator_ColumnPropNameInTable="fbNameColumn" msprop:Generator_UserColumnName="fbName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="unitP" msprop:Generator_ColumnVarNameInTable="columnunitP" msprop:Generator_ColumnPropNameInRow="unitP" msprop:Generator_ColumnPropNameInTable="unitPColumn" msprop:Generator_UserColumnName="unitP" type="xs:long" />
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:long" />
+              <xs:element name="amt" msprop:Generator_ColumnVarNameInTable="columnamt" msprop:Generator_ColumnPropNameInRow="amt" msprop:Generator_ColumnPropNameInTable="amtColumn" msprop:Generator_UserColumnName="amt" type="xs:long" />
+              <xs:element name="billNo" msprop:Generator_ColumnVarNameInTable="columnbillNo" msprop:Generator_ColumnPropNameInRow="billNo" msprop:Generator_ColumnPropNameInTable="billNoColumn" msprop:Generator_UserColumnName="billNo" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
